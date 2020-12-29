@@ -1,3 +1,5 @@
+Fork of multiagent-particle-envs with extra scenarios and modifications to make some existing scenarios zero-sum games.
+
 **Status:** Archive (code is provided as-is, no updates expected)
 
 # Multi-Agent Particle Environment
